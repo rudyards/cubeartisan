@@ -21,7 +21,7 @@
     "@cubeartisan/client": "^0.1.0",
     "@cubeartisan/markdown": "^1.0.0",
     "@emotion/cache": "^11.7.1",
-    "@emotion/react": "^11.9.0",
+    "@emotion/react": "^11.9.3",
     "@emotion/server": "^11.4.0",
     "@google-cloud/opentelemetry-cloud-monitoring-exporter": "^0.14.0",
     "@google-cloud/opentelemetry-cloud-trace-exporter": "^1.1.0",

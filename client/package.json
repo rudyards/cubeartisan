@@ -72,7 +72,7 @@
   "devDependencies": {
     "@cubeartisan/client": "^0.1.0",
     "@cubeartisan/server": "^0.1.0",
-    "@emotion/react": "^11.9.0",
+    "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.8.1",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.7",
     "@testing-library/jest-dom": "^5.16.4",
